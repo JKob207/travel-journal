@@ -1,0 +1,28 @@
+.header
+{
+    background-color: #F55A5A;
+    padding-block: 20px;
+}
+
+.header--logo-section
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.header--logo
+{
+    height: 24px;
+    width: 24px;
+}
+
+.header--title
+{
+    margin-left: 7px;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: -0.075em;
+    color: #fff;
+}
