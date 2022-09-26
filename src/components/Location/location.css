@@ -1,0 +1,85 @@
+.location
+{
+    display: flex;
+    align-items: center;
+    margin: 0 40px;
+}
+
+.location--photo
+{
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+.location--info
+{
+    margin-left: 20px;
+    padding-block: 20px;
+}
+
+.location--country
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.location--map-info
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.location--country-pin
+{
+    width: 7px;
+}
+
+.location--country-name
+{
+    margin-left: 4px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+}
+
+.location--map-google-maps
+{
+    margin-left: 12px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    text-decoration: underline;
+    color: #918E9B;
+}
+
+.location--title
+{
+    margin-top: 4px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+.location--date
+{
+    margin-top: 12px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.location--desc
+{
+    margin-top: 9px;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    color: #2B283A;
+}
